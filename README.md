@@ -60,5 +60,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Created and maintained by [@Kuruptd](https://t.me/tiktok_autoclaim).
 
 ---
-
-بإمكانك استبدال رابط GitHub الخاص بك في `git clone` وحذف أو تعديل أي تفاصيل وفقًا لاحتياجاتك.
